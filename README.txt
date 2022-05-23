@@ -1,1 +1,1 @@
-"Sentiment analysis y despliegue de Modelo con TheBridge"
+"Sentiment analysis" y despliegue de modelo de machine learning con TheBridge.
